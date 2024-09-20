@@ -13,6 +13,9 @@
 
 This AI text summarizer app is built with Next.js and React, leveraging an API to ChatGPT for powerful text summarization. Users can input lengthy articles, documents, or essays, and the app generates concise summaries by extracting key points with high accuracy.
 
+## Live Site
+[Summize app](stupendous-crostata-4098bf.netlify.app/)
+
 ## Features
 
 -   Uses ChatGPT API to convert articles into summaries.
