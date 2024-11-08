@@ -1,24 +1,43 @@
 # Summize
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)]()
+Summize is a powerful text summarizer powered by GPT-4. It allows users to simplify any articles into easily manageable summarizations that can be easily digested. This project utilizes the OpenAI API and integrates GPT-4, making text summaries quick and easy.
 
-## Table of Contents
+The user can also copy the summary to clipboard and paste in anywhere.
 
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
+Powered by [React](https://react.dev/). Deployed on [Netlify](https://www.netlify.com/).
 
-## Overview
+Tech:
 
-This AI text summarizer app is built with Next.js and React, leveraging an API to ChatGPT for powerful text summarization. Users can input lengthy articles, documents, or essays, and the app generates concise summaries by extracting key points with high accuracy.
+<img src="https://skillicons.dev/icons?i=react" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=netlify" alt="skills-icons"/> <img src="https://skillicons.dev/icons?i=redux" alt="skills-icons"/>
 
-## Features
+## To get started
 
--   Uses ChatGPT API to convert articles into summaries.
+If you want to improve upon this project just fork the repo add your code then submit a pull request, alternatively for a local copy, just clone the repo, simple!
 
-## Tech Stack
+Then run the following:
 
--   React
--   Redux
--   TailwindCSS
+```bash
+npm install
+# then run the dev server
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) with your browser to see Summize App.
+
+### Packages
+
+Summize App makes use of the following packages:
+
+- [Tailwind](https://tailwindcss.com/)
+- [React Redux](https://redux.js.org/)
+
+#### Learn More
+
+To learn more about React.js, take a look at the following resources:
+
+- [React.js Documentation](https://react.dev/reference/react) - learn about React.js features and API.
+- [Learn React.js](https://react.dev/learn) - an interactive React.js tutorial.
